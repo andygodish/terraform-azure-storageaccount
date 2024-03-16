@@ -43,5 +43,8 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_sa_id"></a> [sa\_id](#output\_sa\_id) | The resource id of the storage account |
+| <a name="output_sa_name"></a> [sa\_name](#output\_sa\_name) | The name of the storage account resource |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
